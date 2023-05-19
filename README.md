@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanketRathod25
-- 👀 I’m interested in  Web Devlopment, AI, ML, Deep Learning
-- 🌱 I’m currently working as python developer and learning new skill 
+- 👀 I’m interested in  Data Analytics , Web Devlopment, AI, ML, Deep Learning
+- 🌱 I’m currently working as System Engineer (big Data Engineer) and learning new skill 
 - 📫 reach me @ sanketrathod2425@gmail.com
 # Data Scientist 
 <!---
